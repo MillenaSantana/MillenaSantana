@@ -253,36 +253,6 @@ Projeto de análise de interfaces digitais utilizando conceitos de **IHC, UX e h
 
 ---
 
-# `✦ ACTIVITY_GRAPH`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MillenaSantana&bg_color=0D1117&color=FF4FA3&line=9D4EDD&point=4361EE&area=true&hide_border=true" width="95%"/>
-
-</div>
-
----
-
-# `✦ TROPHIES`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=MillenaSantana&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1"/>
-
-</div>
-
----
-
-# `✦ CONTRIBUTION_MATRIX`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/MillenaSantana/MillenaSantana/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-
-</div>
-
----
-
 # `✦ LEARNING_PROTOCOL`
 
 <div align="center">
