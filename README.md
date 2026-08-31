@@ -257,7 +257,6 @@ Projeto de análise de interfaces digitais utilizando conceitos de **IHC, UX e h
 
 <div align="center">
 
-```text
           ┌─────────────────────────────────────┐
           │       KNOWLEDGE PROTOCOL            │
           ├─────────────────────────────────────┤
@@ -267,12 +266,10 @@ Projeto de análise de interfaces digitais utilizando conceitos de **IHC, UX e h
           │       └──── Improve ←────────┘     │
           │                                     │
           └─────────────────────────────────────┘
-```
 
-> **"Keep learning. Keep building. Keep evolving."**
+"Keep learning. Keep building. Keep evolving."
 
 </div>
-
 ---
 
 # `✦ CONNECT`
