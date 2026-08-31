@@ -151,10 +151,10 @@ Meu objetivo é evoluir constantemente, construir projetos reais e transformar c
 Sistema acadêmico pensado para auxiliar no controle de **vendas e estoque** de um pequeno mercado.
 
 **Tecnologias:**  
-`HTML` `CSS` `JavaScript` `SQL`
+`SQL` `HTML`
 
-<a href="https://github.com/MillenaSantana">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-9D4EDD?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/MillenaSantana/Sistema-de-Estoque-e-Vendas-do-Mercado-Santana">
+  <img src="https://img.shields.io/badge/VIEW_PROJECT-9D4EDD?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
