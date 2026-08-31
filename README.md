@@ -1,7 +1,5 @@
 <!-- ========================================================= -->
-
 <!--                  SYSTEM INITIALIZATION                    -->
-
 <!-- ========================================================= -->
 
 <div align="center">
@@ -16,10 +14,10 @@
 ╠══════════════════════════════════════════════════════════════╣
 ║                                                              ║
 ║   > Booting personal interface...                            ║
-║   > Loading developer profile...                            ║
-║   > Loading knowledge modules...                            ║
-║   > Establishing connection...                              ║
-║   > STATUS: ONLINE ✦                                        ║
+║   > Loading developer profile...                              ║
+║   > Loading knowledge modules...                             ║
+║   > Establishing connection...                               ║
+║   > STATUS: ONLINE ✦                                         ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
@@ -28,7 +26,7 @@
 
 <br><br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=MillenaSantana\&label=PROFILE+VIEWS\&color=9D4EDD\&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=MillenaSantana&label=PROFILE+VIEWS&color=9D4EDD&style=for-the-badge)
 
 </div>
 
@@ -40,6 +38,7 @@
 
 <table>
 <tr>
+
 <td width="55%" valign="top">
 
 ### 👩‍💻 Sobre Mim
@@ -50,11 +49,11 @@ Atualmente estou construindo minha base em programação, desenvolvimento, dados
 
 Tenho interesse especial em:
 
-* 📊 **Análise de Dados & BI**
-* 🧪 **QA & Testes de Software**
-* 💻 **Programação**
-* 🎨 **UX/UI & IHC**
-* 🤖 **Inteligência Artificial**
+- 📊 **Análise de Dados & BI**
+- 🧪 **QA & Testes de Software**
+- 💻 **Programação**
+- 🎨 **UX/UI & IHC**
+- 🤖 **Inteligência Artificial**
 
 Meu objetivo é evoluir constantemente, construir projetos reais e transformar conhecimento em experiências práticas.
 
@@ -85,6 +84,7 @@ Meu objetivo é evoluir constantemente, construir projetos reais e transformar c
 ```
 
 </td>
+
 </tr>
 </table>
 
@@ -120,18 +120,18 @@ Meu objetivo é evoluir constantemente, construir projetos reais e transformar c
 
 <div align="center">
 
-| Ferramenta          | Utilização                          |
-| ------------------- | ----------------------------------- |
-| 🌐 **HTML**         | Estruturação de páginas web         |
-| 🎨 **CSS**          | Estilização e design                |
-| ⚡ **JavaScript**    | Interatividade e funcionalidades    |
-| 🐙 **Git & GitHub** | Versionamento e colaboração         |
-| 💻 **VS Code**      | Ambiente de desenvolvimento         |
-| 🎨 **Figma**        | Design de interfaces e prototipagem |
-| 📊 **Excel**        | Organização e análise de dados      |
-| 🐍 **Python**       | Programação e desenvolvimento       |
-| 🗄️ **SQL**         | Bancos de dados e consultas         |
-| 🖌️ **Canva**       | Conteúdos visuais e apresentações   |
+| Ferramenta | Utilização |
+|---|---|
+|  **HTML** | Estruturação de páginas web |
+|  **CSS** | Estilização e design |
+|  **JavaScript** | Interatividade e funcionalidades |
+|  **Git & GitHub** | Versionamento e colaboração |
+|  **VS Code** | Ambiente de desenvolvimento |
+|  **Figma** | Design de interfaces e prototipagem |
+|  **Excel** | Organização e análise de dados |
+|  **Python** | Programação e desenvolvimento |
+|  **SQL** | Bancos de dados e consultas |
+|  **Canva** | Conteúdos visuais e apresentações |
 
 </div>
 
@@ -150,7 +150,7 @@ Meu objetivo é evoluir constantemente, construir projetos reais e transformar c
 
 Sistema acadêmico pensado para auxiliar no controle de **vendas e estoque** de um pequeno mercado.
 
-**Tecnologias:**
+**Tecnologias:**  
 `HTML` `CSS` `JavaScript` `SQL`
 
 <a href="https://github.com/MillenaSantana">
@@ -165,7 +165,7 @@ Sistema acadêmico pensado para auxiliar no controle de **vendas e estoque** de 
 
 Projeto acadêmico envolvendo **Inteligência Artificial**, desenvolvido com foco em auxiliar pessoas por meio da tecnologia.
 
-**Tecnologias:**
+**Tecnologias:**  
 `AI` `Python` `UX/UI`
 
 <a href="https://github.com/MillenaSantana">
@@ -184,7 +184,7 @@ Projeto acadêmico envolvendo **Inteligência Artificial**, desenvolvido com foc
 
 Projeto de análise de interfaces digitais utilizando conceitos de **IHC, UX e heurísticas de usabilidade**.
 
-**Tecnologias:**
+**Tecnologias:**  
 `Figma` `UX/UI` `IHC`
 
 <a href="https://github.com/MillenaSantana">
@@ -195,7 +195,11 @@ Projeto de análise de interfaces digitais utilizando conceitos de **IHC, UX e h
 
 <td width="50%" valign="top">
 
-**Tecnologias:**
+<h3>📚 Study Projects</h3>
+
+Repositório dedicado aos meus exercícios, estudos e projetos desenvolvidos durante minha evolução em tecnologia.
+
+**Tecnologias:**  
 `Logic` `HTML` `CSS` `JavaScript` `Python`
 
 <a href="https://github.com/MillenaSantana">
@@ -221,14 +225,14 @@ Projeto de análise de interfaces digitais utilizando conceitos de **IHC, UX e h
 ╠════════════════════════════════════════════════════════════╣
 ║                                                            ║
 ║  [████████████████░░░░]  Programming Fundamentals          ║
-║  [████████████████░░░░]  HTML & CSS                       ║
-║  [██████████████░░░░░░]  JavaScript                       ║
-║  [██████████████░░░░░░]  Python                           ║
-║  [████████████░░░░░░░░]  SQL & Databases                  ║
-║  [██████████░░░░░░░░░░]  Data Analysis                    ║
-║  [████████░░░░░░░░░░░░]  QA & Software Testing            ║
+║  [████████████████░░░░]  HTML & CSS                        ║
+║  [██████████████░░░░░░]  JavaScript                        ║
+║  [██████████████░░░░░░]  Python                            ║
+║  [████████████░░░░░░░░]  SQL & Databases                   ║
+║  [██████████░░░░░░░░░░]  Data Analysis                     ║
+║  [████████░░░░░░░░░░░░]  QA & Software Testing             ║
 ║                                                            ║
-║  > STATUS: LEARNING_MODE_ACTIVE ✦                         ║
+║  > STATUS: LEARNING_MODE_ACTIVE ✦                          ║
 ║                                                            ║
 ╚════════════════════════════════════════════════════════════╝
 ```
@@ -247,7 +251,7 @@ Projeto de análise de interfaces digitais utilizando conceitos de **IHC, UX e h
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=MillenaSantana&theme=radical&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=MillenaSantana&theme=radical&hide_border=true"/>
 
 </div>
 
@@ -257,8 +261,9 @@ Projeto de análise de interfaces digitais utilizando conceitos de **IHC, UX e h
 
 <div align="center">
 
+```text
           ┌─────────────────────────────────────┐
-          │       KNOWLEDGE PROTOCOL            │
+          │       KNOWLEDGE PROTOCOL             │
           ├─────────────────────────────────────┤
           │                                     │
           │  Learn → Practice → Build → Share  │
@@ -266,10 +271,12 @@ Projeto de análise de interfaces digitais utilizando conceitos de **IHC, UX e h
           │       └──── Improve ←────────┘     │
           │                                     │
           └─────────────────────────────────────┘
+```
 
-"Keep learning. Keep building. Keep evolving."
+> **"Keep learning. Keep building. Keep evolving."**
 
 </div>
+
 ---
 
 # `✦ CONNECT`
@@ -317,19 +324,3 @@ Projeto de análise de interfaces digitais utilizando conceitos de **IHC, UX e h
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2CBF,50:4361EE,100:FF4FA3&height=120&section=footer"/>
 
 </div>
-
-
-<!--
-**MillenaSantana/MillenaSantana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
