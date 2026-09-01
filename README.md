@@ -168,7 +168,7 @@ Projeto acadêmico envolvendo **Inteligência Artificial**, desenvolvido com foc
 **Tecnologias:**  
 `Generative AI` `Prompt Engineering` `AI Agent Development`
 
-<a href="https://healthassistantvita.ai.studio">
+<a href="https://github.com/MillenaSantana/Health-AI-VITA.git">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-4361EE?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
