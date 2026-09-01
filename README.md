@@ -161,14 +161,14 @@ Sistema acadêmico pensado para auxiliar no controle de **vendas e estoque** de 
 
 <td width="50%" valign="top">
 
-<h3>🤖 Health AI</h3>
+<h3>🤖 Health AI VITA</h3>
 
 Projeto acadêmico envolvendo **Inteligência Artificial**, desenvolvido com foco em auxiliar pessoas por meio da tecnologia.
 
 **Tecnologias:**  
-`AI` `Python` `UX/UI`
+`Generative AI` `Prompt Engineering` `AI Agent Development`
 
-<a href="https://github.com/MillenaSantana">
+<a href="https://(https://github.com/MillenaSantana/Health-AI-VITA.git)">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-4361EE?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
