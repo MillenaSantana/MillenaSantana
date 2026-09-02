@@ -49,11 +49,11 @@ Atualmente estou construindo minha base em programação, desenvolvimento, dados
 
 Tenho interesse especial em:
 
-- 📊 **Análise de Dados & BI**
-- 🧪 **QA & Testes de Software**
-- 💻 **Programação**
-- 🎨 **UX/UI & IHC**
-- 🤖 **Inteligência Artificial**
+-  **Análise de Dados & BI**
+-  **QA & Testes de Software**
+-  **Programação**
+-  **UX/UI & IHC**
+-  **Inteligência Artificial**
 
 Meu objetivo é evoluir constantemente, construir projetos reais e transformar conhecimento em experiências práticas.
 
@@ -96,19 +96,19 @@ Meu objetivo é evoluir constantemente, construir projetos reais e transformar c
 
 <div align="center">
 
-### 💻 Programming & Development
+###  Programming & Development
 
 <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
 
 <br><br>
 
-### 📊 Data & Productivity
+###  Data & Productivity
 
 <img src="https://skillicons.dev/icons?i=mysql" />
 
 <br><br>
 
-### 🎨 Design & Prototyping
+###  Design & Prototyping
 
 <img src="https://skillicons.dev/icons?i=figma" />
 
