@@ -22,11 +22,10 @@
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=FF4FA3&center=true&vCenter=true&width=750&lines=Ol%C3%A1%2C+eu+sou+a+Millena+%F0%9F%91%8B;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%F0%9F%92%BB;Explorando+Dados%2C+QA+e+Tecnologia+%F0%9F%A7%A0;Transformando+ideias+em+projetos+%F0%9F%9A%80;Always+learning.+Always+building." alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=FF4FA3&center=true&vCenter=true&width=750&lines=Ol%C3%A1%2C+eu+sou+a+Mih+%F0%9F%91%8B;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%F0%9F%92%BB;Explorando+Dados%2C+QA+e+Tecnologia+%F0%9F%A7%A0;Transformando+ideias+em+projetos+%F0%9F%9A%80;Always+learning.+Always+building." alt="Typing Animation"/>
 
 <br><br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=MillenaSantana&label=PROFILE+VIEWS&color=9D4EDD&style=for-the-badge)
 
 </div>
 
