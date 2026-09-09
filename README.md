@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2CBF,50:4361EE,100:FF4FA3&height=220&section=header&text=MILLENA%20DIAS&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=COMPUTER%20SCIENCE%20%7C%20TECH%20%7C%20INNOVATION&descAlignY=60&descSize=17&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2CBF,50:4361EE,100:FF4FA3&height=220&section=header&text=MILLENA%20DIAS&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=COMPUTER%20SCIENCE%20%7C%20TECH%20%7C%20ALWAYS%20LEARNING&descAlignY=60&descSize=17&animation=fadeIn" width="100%"/>
 
 <br>
 
