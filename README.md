@@ -97,7 +97,7 @@ Meu objetivo é evoluir constantemente, construir projetos reais e transformar c
 
 ###  Programming & Development
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,c,git,github,vscode" />
 
 <br><br>
 
