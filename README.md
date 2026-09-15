@@ -186,7 +186,7 @@ Projeto de análise de interfaces digitais utilizando conceitos de **IHC, UX e h
 **Tecnologias:**  
 `Figma` `UX/UI` `IHC`
 
-<a href="[https://github.com/MillenaSantana](https://github.com/MillenaSantana/Projeto-de-UX-UI-Design.git)">
+<a href="https://github.com/MillenaSantana/Projeto-de-UX-UI-Design.git">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-FF4FA3?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
