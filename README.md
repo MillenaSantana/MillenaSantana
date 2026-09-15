@@ -201,7 +201,7 @@ Repositório dedicado aos meus exercícios, estudos e projetos desenvolvidos dur
 **Tecnologias:**  
 `Logic` `HTML` `CSS` `JavaScript` `Python`
 
-<a href="https://github.com/MillenaSantana">
+<a href="https://github.com/MillenaSantana/Study-Projects.git">
 <img src="https://img.shields.io/badge/EXPLORE-7B2CBF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
